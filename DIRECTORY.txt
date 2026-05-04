@@ -1,0 +1,10 @@
+/PROJECT_SOVEREIGN
+├── LICENSE                 # Sovereign Use Reservation (SUR)
+├── README.md               # Cold Technical Engineering Standard
+├── MANIFESTO.md            # Vision and Philosophical Foundations
+├── /specifications
+│   ├── logic_gates.md      # O(1) Constant Time State Mapping
+│   ├── memory_topology.md  # L0 TapRoot, L1 Accretion, L2 Volatile
+│   └── physical_spec.md    # SK-1 Chassis & Tonal Calibration
+└── /audits
+    └── clinical_audit_v1.md # Framework for Hardware-Level Validation
